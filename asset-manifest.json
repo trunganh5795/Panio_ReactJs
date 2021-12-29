@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Panio_ReactJs/static/css/main.b25221d1.css",
+    "main.js": "/Panio_ReactJs/static/js/main.1f09e135.js",
+    "static/js/787.66072422.chunk.js": "/Panio_ReactJs/static/js/787.66072422.chunk.js",
+    "index.html": "/Panio_ReactJs/index.html",
+    "main.b25221d1.css.map": "/Panio_ReactJs/static/css/main.b25221d1.css.map",
+    "main.1f09e135.js.map": "/Panio_ReactJs/static/js/main.1f09e135.js.map",
+    "787.66072422.chunk.js.map": "/Panio_ReactJs/static/js/787.66072422.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b25221d1.css",
+    "static/js/main.1f09e135.js"
+  ]
+}
